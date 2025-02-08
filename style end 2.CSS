@@ -1,0 +1,103 @@
+body{
+     background-image: url(babymetal.webp);
+    background-position: center center;
+    background-repeat no-repeat;
+    background-size: cover;
+    background-attachment:  fixed;
+    
+    
+    
+
+}
+.miedo{width: 200px;
+    position: absolute;
+    top: 500px;
+    left: 245px;
+
+}
+.nampa{
+    width: 400px;
+    position: absolute;
+    top: 500px;
+    left: 245px;
+
+}
+.susuka{ width: 1000px;
+       margin-top: 25px;
+      margin-left: 250px;
+}  
+.pollito{
+      width: 200px; 
+      margin-top:10px;
+      margin-left: 225px;
+}                     
+.foto2{
+    width: 350px;    
+    position: absolute;
+    top:100px;
+    left: 10px;
+    
+
+}
+
+.no2{width: 340px;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+
+}
+.no1{ width: 200px;
+    position: absolute;
+    top: 3400px;
+    left: 525px;
+
+}
+
+.yes{ color: rgb(250, 0, 0);
+    width: 400px; 
+    margin-top:1px;
+    margin-left: 350px;
+     justify-content: center;
+     background-image: url(ticket2.jpg);
+     border: 2px solid black ;
+     border-radius: 50px;
+     cursor: pointer;
+     padding: 25px;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    
+     transition: 5s ease;
+    }
+    .yes:hover {
+        background-image: url(fotos/abrazopollo.gif);
+
+    }
+    
+.no{ 
+        justify-content: center;
+        color: rgb(255, 34, 0);
+        background-image: url(ticket2.jpg);
+        border: 2px solid black ;
+        border-radius: 50px;
+        cursor: pointer;
+        padding: 25px;
+        text-decoration: none;
+        transition: 5s ease; 
+        position: relative;
+        top: 100px;    
+    }
+        
+    .no:hover{ background-image: url(triste.gif);
+         
+        }
+
+
+.inicio{ 
+    position: relative;
+    font-family: fantasy;
+    color: rgb(7, 7, 7);
+    position: relative;
+    text-align:center ;
+
+}
