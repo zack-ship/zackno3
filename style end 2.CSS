@@ -32,10 +32,15 @@ body{
 }
 
 .pollito{
-      width: 200px; 
-      margin-top:10px;
-      margin-left: 225px;
-}                     
+      position: relative;
+      width: 700px; 
+      top:100px;
+      left:120px;
+      image-resolution: ;              
+      -ms-flex-align: center;
+      align-items: center;
+      justify-content: center;
+      }                  
 .foto2{
     width: 350px;    
     position: absolute;
