@@ -1,5 +1,5 @@
 body{
-     background-image: url(faro4.jpg);
+     background-image: url(faro5.jpg);
     background-position: center center;
     background-repeat no-repeat;
     background-size: cover;
@@ -20,7 +20,7 @@ body{
 .oculto{
     font-family: Arial, Helvetica, sans-serif;
      font-size: 20px;
-     color: rgb(0, 0, 0);
+     color: rgb(75, 48, 116);
        text-align:center;
         position: relative;
     left: 120px;
