@@ -5,7 +5,22 @@ body{
     background-size: cover;
     background-attachment:  fixed;
     
-    
+.inicio{ 
+    width: 1000px; 
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 50px; 
+    position: relative;
+    left: 50px;
+    top:200px;
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+    text-align:center;
+     align-items: center;
+      justify-content: center;
+   
+ 
+
+}
     
 
 }
@@ -15,17 +30,7 @@ body{
     left: 245px;
 
 }
-.nampa{
-    width: 400px;
-    position: absolute;
-    top: 500px;
-    left: 245px;
 
-}
-.susuka{ width: 1000px;
-       margin-top: 25px;
-      margin-left: 250px;
-}  
 .pollito{
       width: 200px; 
       margin-top:10px;
@@ -34,7 +39,7 @@ body{
 .foto2{
     width: 350px;    
     position: absolute;
-    top:100px;
+    top:400px;
     left: 10px;
     
 
@@ -42,30 +47,34 @@ body{
 
 .no2{width: 340px;
     position: absolute;
-    top: 100px;
+    top: 0px;
     left: 400px;
 
 }
 .no1{ width: 200px;
     position: absolute;
-    top: 3400px;
+    top: 400px;
     left: 525px;
 
 }
 
-.yes{ color: rgb(250, 0, 0);
-    width: 400px; 
-    margin-top:1px;
-    margin-left: 350px;
+.yes{ color: rgb(8, 118, 186);
+    width: 1200px; 
+    position: relative; 
+    text-align: center;
+    top: 200px;
+    left: 50px;
      justify-content: center;
-     background-image: url(ticket2.jpg);
+     background-image: url(babymetal.webp);
      border: 2px solid black ;
      border-radius: 50px;
      cursor: pointer;
-     padding: 25px;
-    text-decoration: none;
-    position: relative;
-    top: 100px;
+     padding: 15px;
+     text-decoration: none;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     font-style: italic; 
+   
     
      transition: 5s ease;
     }
@@ -74,30 +83,34 @@ body{
 
     }
     
-.no{ 
-        justify-content: center;
-        color: rgb(255, 34, 0);
-        background-image: url(ticket2.jpg);
-        border: 2px solid black ;
-        border-radius: 50px;
-        cursor: pointer;
-        padding: 25px;
-        text-decoration: none;
-        transition: 5s ease; 
-        position: relative;
-        top: 100px;    
+.no{ color: rgb(8, 118, 186);
+    width: 1200px; 
+    position: relative; 
+    text-align: center;
+    top:200px;
+    left: 100px;
+    justify-content: center;
+    background-image: url(babymetal.webp);
+    border: 2px solid black ;
+    border-radius: 50px;
+    cursor: pointer;
+    padding: 10px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: italic; 
+    
     }
         
     .no:hover{ background-image: url(triste.gif);
          
         }
-
-
-.inicio{ 
-    position: relative;
-    font-family: fantasy;
-    color: rgb(7, 7, 7);
-    position: relative;
-    text-align:center ;
+.nampa{
+    width: 400px;
+    position: absolute;
+    top: 500px;
+    left: 245px;
 
 }
+
+
