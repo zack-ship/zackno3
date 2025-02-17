@@ -108,5 +108,12 @@ body{
     left: 200px;
 
 }
+
+@media (mac.width: 600px){
+  .container{
+    pandding:10px;
+    font-size: 14px;
+  }
+
 }
 
